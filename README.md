@@ -20,7 +20,8 @@ This course serves as an introduction to computing and computational mathematics
 12. Complex Numbers and Computation with Python
 13. Jupyter Platform and Latex Language.
 
-
+**Author and Lecturer:** Guray Gurkan, PhD
+**e-mail:** g.gurkan@iku.edu.tr
 
 ## Suggested References:
 
